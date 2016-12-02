@@ -1,0 +1,6 @@
+framework module Pods_IPL_2016UITests {
+  umbrella header "Pods-IPL 2016UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
